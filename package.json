@@ -1,0 +1,19 @@
+{
+  "name": "deepspeech-explorer",
+  "version": "0.1.0",
+  "description": "An exploration of the NodeJS implementation of Mozilla DeepSpeech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittlePath/deepspeech-explorer.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com> (https://thirstyhead.com/)",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/LittlePath/deepspeech-explorer/issues"
+  },
+  "homepage": "https://github.com/LittlePath/deepspeech-explorer#readme"
+}
